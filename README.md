@@ -186,4 +186,5 @@ All random seeds fixed at 42. Reproducible from fresh kernel with Kernel → Res
 1. P. Komiske, E. Metodiev, J. Thaler — Pythia8 Quark and Gluon Jets, Zenodo (2019)
 2. K. Cranmer, J. Pavez, G. Louppe — Approximating Likelihood Ratios with Calibrated Discriminative Classifiers, arXiv:1506.02169
 3. M. Cranmer — PySR: Fast & Parallelized Symbolic Regression in Python, github.com/MilesCranmer/PySR
-4. K. Matchev, K. Matcheva, A. Roman — arXiv:2202.02306
+4. K. Matchev, K. Matcheva, A. Roman — [arXiv:2202.02306](https://www.researchgate.net/publication/369212528_Is_the_machine_smarter_than_the_theorist_Deriving_formulas_for_particle_kinematics_with_symbolic_regression)
+
